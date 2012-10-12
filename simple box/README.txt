@@ -1,0 +1,3 @@
+the joints were way too tight - I had to dremel each and every one and then use a mallet on top of that in order to fit the pieces together. guess wood doesn't compress anywhere near as well as MDF.  Robert mentioned there was a way to slightly grow or shrink parts in the shopbot software before a cut, so that might be a way to account for this without having to redesign every piece.
+
+bought knob and hinges to turn lid into a swinging door. yet to attach due to lack of drill! but soon...
